@@ -12,7 +12,7 @@ This is a Python Flask/FastAPI app that permit to launch an api using Flask and 
 ## Installation
 
 Clone the repo:
-git clone https://github.com/username/myapp.git
+git clone https://github.com/Isaac-k7/python_usr_flask_fast_api.git
 
 Install requirements:
 
